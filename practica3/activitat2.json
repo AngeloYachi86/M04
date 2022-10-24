@@ -1,11 +1,12 @@
 {"bookstore": {
 
-    "book": "on",
+    "book": {
     
         "title": "Relatos cortos",
         "publisher": "Antón Chéjov",
         "cover": "Relatos cortos cover",
          "price": 25 
-
-        }
-    }
+        
+    }        
+    
+}}
