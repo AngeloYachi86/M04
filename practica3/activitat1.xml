@@ -1,0 +1,35 @@
+<?xml version="1.0" encodign="UTF-8"?>
+<students>
+    <student type="alumno1">
+        <name>Angelo</name>
+        <surname>Yachi</surname>
+        <email>angeloyachi@gmail.com</email>
+        <dni>Y6030853S</dni>
+    </student>
+    <student type="alumno2">
+        <name>Maria</name>
+        <surname>Garcia</surname>
+        <email>mariagarcia@hotmail.com</email>
+        <dni>Y6083764F</dni>
+    </student>
+    <student type="alumno3">
+        <name>Jose</name>
+        <surname>Martinez</surname>
+        <email>josemartinez@yahoo.es</email>
+        <dni>83925403S</dni>
+    </student>
+    <student type="alumno4">
+        <name></name>
+        <surname></surname>
+        <email></email>
+        <dni>84425403P</dni>
+    </student>
+    <student type="alumno5">
+        <name></name>
+        <surname></surname>
+        <email></email>
+        <dni>83978403j</dni>
+    </student>
+</students>
+
+
