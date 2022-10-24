@@ -1,0 +1,9 @@
+<?xml version="1.0" encodign="UTF-8"?>
+<bookstore>
+    <book>
+        <title>Relatos cortos</title>
+        <publisher>Antón Chéjov</publisher>
+        <cover>Relatos cortos cover</cover>
+        <price>25</price>
+    </book>
+</bookstore>
