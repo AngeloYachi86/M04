@@ -1,0 +1,36 @@
+{
+    "students": {
+      "student": [
+        {
+          "name": "Angelo",
+          "surname": "Yachi",
+          "email": "angeloyachi@gmail.com",
+          "dni": "Y6030853S"
+        },
+        {
+          "name": "Maria",
+          "surname": "Garcia",
+          "email": "mariagarcia@hotmail.com",
+          "dni": "Y6083764F"
+        },
+        {
+          "name": "Jose",
+          "surname": "Martinez",
+          "email": "josemartinez@yahoo.es",
+          "dni": "83925403S"
+        },
+        {
+          "name": "",
+          "surname": "",
+          "email": "",
+          "dni": "84425403P"
+        },
+        {
+          "name": "",
+          "surname": "",
+          "email": "",
+          "dni": "83978403j"
+        }
+      ]
+    }
+  }
