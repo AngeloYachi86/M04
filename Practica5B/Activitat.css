@@ -1,0 +1,22 @@
+body {
+background-color: white; 
+}
+
+caption{
+    color: blue;
+}
+
+#main-container{
+    margin: 150px auto;
+    width: 600px;
+}
+
+th,td {
+    border: solid 1px;
+}
+
+
+th {
+    background-color:grey;
+    color: black;
+}
