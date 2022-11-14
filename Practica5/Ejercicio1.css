@@ -1,0 +1,17 @@
+table{
+    
+    background-color:antiquewhite;
+    margin:0 auto;
+}
+caption{
+    text-align: center;
+    color:green;
+}
+td{
+    color: blueviolet;
+    border-style: solid;
+    border-color:black;
+}
+th{
+   text-align: center;
+}
