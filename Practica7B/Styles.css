@@ -1,34 +1,35 @@
 .amarillo{
-	height: 120px;
-	width: 160px;
-	margin-left: 20px;
-	margin-top: 40px;
-	position: relative;
-	background: yellow;
+    height: 120px;
+    width: 160px;
+    left: 20px;
+    top: 40px;
+    position: absolute;
+    background: yellow;
 }
 .azul{
-	height: 40px;
-	width: 40px;
-	margin-left: 20px;
-	position: absolute;
-	bottom: left;
-	margin-top: 20px;
-	background: #7CC0EF;
+    height: 40px;
+    width: 40px;
+    left: 20px;
+    position: relative;
+    top: 20px;
+    background: #7CC0EF;
 }
 .verde{
-	height: 120px;
-	width: 160px;
-	margin-left: 100px;
-	margin-top: -40px;
-	background: #6DF2B5;
+    height: 120px;
+    width: 160px;
+    left: 100px;
+    top: 140px;
+    position: absolute;
+    background: #6DF2B5;
 }
 .rojo{
-	height: 40px;
-	width: 40px;
-	position: absolute;
-	bottom: left;
-	margin-top: 60px;
-	margin-left: 100px;
-	background: #F93E3E;
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 60px;
+    left: 100px;
+    background: #F93E3E;
 }
+ 
+ 
 
