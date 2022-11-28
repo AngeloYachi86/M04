@@ -1,0 +1,34 @@
+.amarillo{
+	height: 120px;
+	width: 160px;
+	margin-left: 20px;
+	margin-top: 40px;
+	position: relative;
+	background: yellow;
+}
+.azul{
+	height: 40px;
+	width: 40px;
+	margin-left: 20px;
+	position: absolute;
+	bottom: left;
+	margin-top: 20px;
+	background: #7CC0EF;
+}
+.verde{
+	height: 120px;
+	width: 160px;
+	margin-left: 100px;
+	margin-top: -40px;
+	background: #6DF2B5;
+}
+.rojo{
+	height: 40px;
+	width: 40px;
+	position: absolute;
+	bottom: left;
+	margin-top: 60px;
+	margin-left: 100px;
+	background: #F93E3E;
+}
+
