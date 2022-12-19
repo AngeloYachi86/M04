@@ -1,0 +1,112 @@
+.flex-container {
+    margin-top: 10px;
+}
+
+.flex-container a {
+    color: black;
+}
+
+.SobreGoogle {
+    margin-left: 10px;
+    margin-right: 15px;
+}
+
+.Botiga {
+    margin-right: 70%;
+}
+
+.Gmail {
+    margin-right: 10px;
+}
+
+.Imatges {
+    margin-right: 20px;
+}
+
+.Puntitos {
+    width: 14px;
+    margin-right: 10px;
+}
+
+.Boton {
+    margin-left:10px;
+    width: 110px;
+    height: 30px;
+    border-color:#136FF3;
+    border: none;
+    border-radius: 4px;
+}
+
+.Google {
+    margin-top:90px;    
+    margin-left: 630px;
+    width: 272px;
+    height: 92px;
+}
+
+
+.Centro {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Botones {
+    margin-top: 20px;
+}
+
+.Textito {
+    margin-top: 20px;
+}
+
+.Barra-busqueda{
+    margin-top: 20px;
+    width:582px;
+    height:44px;
+    border: 1px solid black;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Barra {
+    width:382px;
+    height:42px;
+    border: 0px;
+}
+.Barra:checked{
+    border: 0px;
+}
+
+.Barra-busqueda img {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 24px;
+    height:24px;
+    
+}
+
+.Lupa { 
+    width:20px !important;
+    height:20px !important;
+}
+
+.España {
+    margin-left: 20px;
+    margin-top: 250px;
+
+}
+
+.Texto-Abajo {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.Texto-Abajo a {
+    margin-left:20px;
+    margin-right: 10px;
+    color: black;
+}
