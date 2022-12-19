@@ -1,17 +1,30 @@
-.Posicio {
+.flex-container {
     margin-top: 10px;
-    margin-left: 80%;
+}
+
+.flex-container a {
+    color: black;
+}
+
+.SobreGoogle {
+    margin-left: 10px;
+    margin-right: 15px;
+}
+
+.Botiga {
+    margin-right: 70%;
 }
 
 .Gmail {
-    margin-left:5px;
-    color:black;
+    margin-right: 10px;
 }
 
 .Imatges {
-    margin-left: 20px;
-    margin-right:20px;
-    color:black;
+    margin-right: 20px;
+}
+
+.Puntitos {
+    margin-right: 10px;
 }
 
 .Boton {
@@ -24,30 +37,75 @@
 }
 
 .Google {
-    margin-top:85px;    
-    margin-left: 600px;
-    width: 300px;
-    height: 100px;
+    margin-top:90px;    
+    margin-left: 630px;
+    width: 272px;
+    height: 92px;
+}
+
+
+.Centro {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .Botones {
-    margin-top: 90px;
-    margin-left:600px;
-
-}
-
-.Boton1 {
-    margin-right:20px;
+    margin-top: 20px;
 }
 
 .Textito {
     margin-top: 20px;
-    margin-left:600px;
 }
 
 .Barra-busqueda{
-    margin-left: 600px;
-    border-radius: 4px;
-    margin-top: -120px;
-    width:300px;
+    margin-top: 20px;
+    width:582px;
+    height:44px;
+    border: 1px solid black;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Barra {
+    width:382px;
+    height:42px;
+    border: 0px;
+}
+.Barra:checked{
+    border: 0px;
+}
+
+.Barra-busqueda img {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 24px;
+    height:24px;
+    
+}
+
+.Lupa { 
+    width:20px !important;
+    height:20px !important;
+}
+
+.España {
+    margin-left: 20px;
+    margin-top: 250px;
+
+}
+
+.Texto-Abajo {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.Texto-Abajo a {
+    margin-left:20px;
+    margin-right: 10px;
+    color: black;
 }
