@@ -2,13 +2,10 @@ body{
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
-    font-size:14px;
-     
+    font-size:14px;   
 }
 
 .nav-derecha{
-    
-    /* height: auto; */
     display: flex;
     list-style: none;
     align-items: center;
@@ -16,9 +13,7 @@ body{
     position: static;
     height: 40px;
     padding: 6px;
-    border-bottom: 1px solid #dadce0;
-    
-    
+    border-bottom: 1px solid #dadce0;   
 }
 .nav-derecha a{
     color:#000001;
@@ -26,24 +21,8 @@ body{
     margin-left: 10px;
     cursor: pointer;
     text-decoration: none;
-    
 }
-.footer-inferior a{
-    color: #70757a;
-    margin-right: 10PX;
-    margin-left: 10px;
-    cursor: pointer;
-    text-decoration: none;
-}
-a:hover{
-    text-decoration: underline;
-}
-.pais a:hover{
-    text-decoration: none;
-}
-
 .menu-icono{
-    
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -54,7 +33,6 @@ a:hover{
     width: 20px;
     height: 20px;
     opacity: 0.65;  
-         
 }
 button{
     background-color: #1a73e8;
@@ -71,39 +49,42 @@ button{
     cursor: pointer;
     border-radius: 0.3rem;    
 }
-
 .imagenGoogle{
-    text-align: center;
-    padding-top: 6%;
-    align-items: center;
-    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    padding-top:100px ;
 }
 .fotos {
-    width: 100%;
-    height: auto;
     display: flex;
     align-items: center;
-    /* justify-content: space-evenly; */
-    justify-content: center;
-    margin-top: 20px;
-     
+    justify-content: center; 
 }
 figure{
-    text-align: center;
-    
-}
-.bilal{
-    margin-left: 60px;
-}
-.angelo{
-    margin-right: 60px;
+    display: flex;
+    justify-content: center;   
 }
 
+.text{
+    font-size: 10px;
+    margin: 60px;
+    margin-top: 0;
+    color: #70757a;
+}
 .footer-inferior{
     width:100%;
     background: #f2f2f2;
     position: absolute;
     bottom: 0;
+}
+.footer-inferior a{
+    color: #70757a;
+    margin-right: 10PX;
+    margin-left: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
 }
 .pais{
     
@@ -115,7 +96,9 @@ figure{
     height: 30px;
     padding: 6px;
     border-bottom: 1px solid #dadce0;
-    
+}
+.pais a:hover{
+    text-decoration: none;
 }
 .inferior{
     display: flex;
@@ -125,7 +108,6 @@ figure{
     height: 30px;
     padding: 6px;
     justify-content: space-between;
-
 }
 
 
